@@ -1,0 +1,22 @@
+table.docutils {
+        border-collapse: collapse;
+        border-right: 1px solid #999;
+        border-top: 1px solid #999;
+}
+
+table.docutils th {
+        padding: 6px;
+        text-align: left;
+        vertical-align: top;
+        color: #fff;
+        background-color: #555;
+        border-left: 1px solid #fff;
+        border-top: 1px solid #fff;
+}
+
+table.docutils td {
+        padding: 6px;
+        background-color: #fff;
+        border-bottom: 1px solid #999;
+        border-left: 1px solid #999;
+}

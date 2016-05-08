@@ -6,12 +6,14 @@
 Welcome to sample's documentation!
 ==================================
 
-Contents:
-
 .. toctree::
    :maxdepth: 2
+   :numbered:
 
-
+   my
+   expert_python
+   art_of_community
+   
 
 Indices and tables
 ==================
